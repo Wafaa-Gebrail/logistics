@@ -4,8 +4,6 @@ Developed a Flutter-based delivery platform designed to manage deliveries betwee
 
 The system consists of two main applications: a **User App** for creating and tracking delivery requests, and a **Driver App** for discovering, accepting, and completing nearby delivery requests.
 
-> **Note:** This repository contains documentation only. The source code is not publicly available because the application was developed as a client project.
-
 ## Features
 
 - **User Application**:
